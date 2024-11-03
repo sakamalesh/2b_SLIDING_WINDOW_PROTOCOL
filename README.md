@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## Name: Kamalesh
+## Reg no:212223040083
 ## AIM
 ## ALGORITHM:
 1. Start the program.
@@ -8,8 +10,7 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-## Name: Kamalesh
-## Reg no:212223040083
+
 ## Server:
 '''
 
